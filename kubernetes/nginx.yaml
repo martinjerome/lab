@@ -1,3 +1,5 @@
+# Created yaml for nginx pod using code
+
 apiVersion: v1
 kind: Pod
 metadata:
